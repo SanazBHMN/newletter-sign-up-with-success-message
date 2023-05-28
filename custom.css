@@ -1,0 +1,9 @@
+.btn-secondary {
+  background-color: hsl(234, 29%, 20%);
+}
+
+li::before {
+  content: url("assets/images/icon-list.svg");
+  display: inline-block;
+  margin-right: 0.7rem;
+}
